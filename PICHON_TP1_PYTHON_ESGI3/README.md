@@ -7,7 +7,7 @@
 
  ## Enfin vous avez deux fichiers .py à part:
    1. *interface.py* --> Permet de générer le menu ainsi que les différents exercices avec le module Tkinter.
-   2. *main.py* --> C'est le point d'entrée du TP. Il appelle le fichier "interface.py".
+   2. *main.py* --> C'est le point d'entrée du TP. Il appelle le fichier *interface.py*.
 
 
  Pour des raison de taille de fichier, l'exécutable du programme n'a pas pu être inclut.
