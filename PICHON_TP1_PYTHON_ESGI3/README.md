@@ -6,7 +6,7 @@
    3. Le dossier *Sound* --> Contient tous les sons pour l'interface utilisateur.
 
  ## Enfin vous avez deux fichiers .py à part:
-   1. *interface.py* --> Permet de générer le menu ainsi que les différents exercices avec le module Tkinter.
+   1. *interface.py* --> Permet de générer le menu ainsi que les différents exercices avec le module **Tkinter**.
    2. *main.py* --> C'est le point d'entrée du TP. Il appelle le fichier *interface.py*.
 
 
