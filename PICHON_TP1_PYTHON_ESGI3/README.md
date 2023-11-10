@@ -1,5 +1,4 @@
 # Bienvenue dans le TP1 consacré au langage de programmation Python.
-
 ## Vous trouverez dans ce dossier tous les éléments du TP:
    1. Le dossier "exo" --> Contient le code des différents exercices ainsi que les tests unitaires.
    2. Le dossier "Images" --> Conteint toutes les images pour l'interface utilisateur.
