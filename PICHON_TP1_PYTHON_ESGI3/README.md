@@ -15,6 +15,20 @@
  ```
     pyinstaller --onefile main.py
  ```
+ Si vous souhaitez avoir un exécutable sous Linux, il vous suffit d'exécuter le code suivant:
+ ```
+    pip install cx_Freeze
+ ```
+ Créer ensuite un fichier setup.py et placez les lignes de code suivantes:
+ ```
+    from cx_Freeze import setup, Executable
 
+    setup(
+         name="",
+         version="",
+         description="",
+         executables=[Executable("main.py")])
 
+    python setup.py build
+```
  **Amusez-vous bien avec ce TP, et surtout n'oubliez pas d'activer le son de votre ordinateur !**
