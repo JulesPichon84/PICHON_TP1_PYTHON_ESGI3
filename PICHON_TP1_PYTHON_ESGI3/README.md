@@ -10,4 +10,11 @@
 #   2. "main.py" --> C'est le point d'entrée du TP. Il appelle le fichier "interface.py".
 #
 #
+# Pour des raison de taille de fichier, l'exécutable du programme n'a pas pu être inclut.
+# Si vous souhaitez avoir un exécutable sous Windows, il vous suffit d'exécuter le code suivant:
+ ```
+    pyinstaller --onefile main.py
+ ```
+#
+#
 # Amusez-vous bien avec ce TP, et surtout n'oubliez pas d'activer le son de votre ordinateur !
