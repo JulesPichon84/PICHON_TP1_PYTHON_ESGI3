@@ -1,3 +1,11 @@
+
+__________          __  .__                   
+\______   \___.__._/  |_|  |__   ____   ____  
+ |     ___<   |  |\   __\  |  \ /  _ \ /    \ 
+ |    |    \___  | |  | |   Y  (  <_> )   |  \
+ |____|    / ____| |__| |___|  /\____/|___|  /
+           \/                \/            \/ 
+
 # Bienvenue dans le TP1 consacré au langage de programmation Python.
 
 ## Vous trouverez dans ce dossier tous les éléments du TP:
